@@ -21,8 +21,14 @@ while(confirmLength <= 7 || confirmLength >= 56) {
     alert("Ey, this password is too long, or maybe it's too short I don't know, what do you want to do, fight about it?" + " Please choose between 8 and 55 characters")
     var confirmLength = (prompt("Ey, bout how many characters you want in this bad mother trucker?"));
 }
-}
 
+ alert(`Yo, this password gonna be bout ${confirmLength} characters long`);
+ 
+ var confirmNumber;
+ var confirmAlphaCap;
+ var confirmAlphaLow;
+ var confirmSpecChar;
+}
 // Write password to the #password input
 function writePassword() {
     var password = generatePassword();
