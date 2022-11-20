@@ -17,8 +17,8 @@ var confirmSpecChar;
 
 function generatePassword() {
     var confirmLength = (prompt("Ey, bout how many characters you want in this bad mother trucker?"));
-while(confirmLength <= 7 || confirmLength >= 56) {
-    alert("Ey, this password is too long, or maybe it's too short I don't know, what do you want to do, fight about it?" + " Please choose between 8 and 55 characters")
+while(confirmLength <= 7 || confirmLength >= 129) {
+    alert("Ey, this password is too long, or maybe it's too short I don't know, what do you want to do, fight about it?" + " Please choose between 8 and 128 characters")
     var confirmLength = (prompt("Ey, bout how many characters you want in this bad mother trucker?"));
 }
 
