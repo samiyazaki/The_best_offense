@@ -24,10 +24,10 @@ while(confirmLength <= 7 || confirmLength >= 56) {
 
  alert(`Yo, this password gonna be bout ${confirmLength} characters long`);
  
- var confirmNumber
- var confirmAlphaCap
- var confirmAlphaLow
- var confirmSpecChar
+ var confirmNumber = confirm("Smash that OK button to confirm you want them digits or hit cancel if you're scared of numbers like I am.");
+ var confirmAlphaCap = confirm("Smash that OK button to confirm you want CAPS LOCK to be lit or hit cancel if your 2nd grade teacher whacked you with a ruler for putting CAPS in the wrong spot.");
+ var confirmAlphaLow = confirm("Smash that OK button to confirm you want all lower case letters or hit cancel if your 2nd grade teacher whacked you with a ruler for forgetting to capitalize words.");
+ var confirmSpecChar = confirm("Smash that OK button to confirm you want special characters in the mix or hit cancel if you forget where to even find them.");
 }
 // Write password to the #password input
 function writePassword() {
