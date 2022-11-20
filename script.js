@@ -24,10 +24,10 @@ while(confirmLength <= 7 || confirmLength >= 56) {
 
  alert(`Yo, this password gonna be bout ${confirmLength} characters long`);
  
- var confirmNumber;
- var confirmAlphaCap;
- var confirmAlphaLow;
- var confirmSpecChar;
+ var confirmNumber
+ var confirmAlphaCap
+ var confirmAlphaLow
+ var confirmSpecChar
 }
 // Write password to the #password input
 function writePassword() {
