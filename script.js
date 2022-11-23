@@ -22,7 +22,7 @@ while(confirmLength <= 7 || confirmLength >= 129) {
     var confirmLength = (prompt("Ey, bout how many characters you want in this bad mother trucker?"));
 }
 
- alert(`Yo, this password gonna be bout ${confirmLength} characters long`);
+ alert(`Yo, this password gonna be bout ` + confirmLength + ` characters long`);
  
  var confirmNumber = confirm("Smash that OK button to confirm you want them digits or hit cancel if you're scared of numbers like I am.");
  var confirmAlphaCap = confirm("Smash that OK button to confirm you want CAPS LOCK to be lit or hit cancel if your 2nd grade teacher whacked you with a ruler for putting CAPS in the wrong spot.");
