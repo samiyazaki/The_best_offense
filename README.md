@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiyazaki" alt="samiyazaki" /></a> </p>
 
-- 🔭 I’m currently working on [The_best_offense](https://samiyazaki.github.io/The_best_offense)<img src="Assets\Password Generator example.gif" alt="image of site deployed" /> </a>
+- 🔭 I’m currently working on [The_best_offense](https://samiyazaki.github.io/The_best_offense)<img src="Assets\Password Generator example.gif" alt="GIF of password generator site, displaying working use." /> </a>
 
 ## This is a project built primarily in JavaScript utilizing included HTML and CSS files to build a random character password generator that functions off of the user selecting specific criteria. 
 
