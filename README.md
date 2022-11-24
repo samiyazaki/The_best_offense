@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [The_best_offense](https://samiyazaki.github.io/The_best_offense)<img src="Assets\Password Generator example.gif" alt="image of site deployed" /> </a>
 
-## This is a project that is intended to be a collection of all of my work and projects going forward in my career as a developer. Please check out what I have working and give it a try.
-## As you can see there is a navigation page on the left hand side of the screen that will allow you to skip to the About, Projects and Contact sections of the site.
-## On the right you can see links to my Github and LinkedIn accounts. The buttons glow by rotating through 360 degrees of the color wheel.
-## The about me section includes a picture of me in my boat shirt, in front of a boat painting, with boats in bottles at a maritime museum. I like the ocean in case you couldn't tell.
-## My projects are primarily from before my foray into software development, the first is a website and series of product photoshoots I did for a client, followed by a website I designed for a client and commisioned as well as a site I built myself in WordPress. The next two are from my bootcamp, and finally a small javaScript game that I built with my son.
-## The final section is a contact section which is currently non-functional but the phone call button works as well as a little easter egg with the other button. 
+## This is a project built primarily in JavaScript utilizing included HTML and CSS files to build a random character password generator that functions off of the user selecting specific criteria. 
 
+## First, the password generator starts when the user clicks the "Generate password" button and is given a prompt to select how long of a password they would like to create. 
 
-- 🌱 I’m currently learning **javaScript, CSS, HTML and Git commands**
+## Next, the password generator asks for the user to select the types of characters they would like to include in their password. The user can select from Upper and Lower Case letters, Numbers and Special Characters. If no options are selected the user is told to select at least one of the criteria for a password to form.
+
+## Then, the password generator produces a password following the requested format and using the marked characters.
+
+## Last, the password generator displays a password for the user. They can copy and paste the password directly from the included text box.
 
 - 👨‍💻 All of my projects are available at [https://github.com/samiyazaki](https://github.com/samiyazaki)
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/seiya-miyazaki/](https://www.linkedin.com/in/seiya-miyazaki/)
 
-- ⚡ Fun fact **I love lamp.**
+- ⚡ Fun fact **I used this password generator to make a password for my Facebook account. I did not save the password and then had to re-make the password again. Whoopy!.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

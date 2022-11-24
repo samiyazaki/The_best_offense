@@ -13,7 +13,7 @@ var confirmNumber;
 var confirmAlphaCap;
 var confirmAlphaLow;
 var confirmSpecChar;
-//When I click the buttone to generate a password I am presented with a series of prompts for password criteria
+//When I click the button to generate a password I am presented with a series of prompts for password criteria
 function generatePassword() {
   var confirmLength = prompt(
     "Please select a password length between 8 and 128 characters."
@@ -21,7 +21,7 @@ function generatePassword() {
   console.log(
     "You're about to get an awesome password that will definitely take longer than 5 minutes to brute force."
   );
-  //WHEN prompted for the length of the pasword I choose a length of at least 8 characters and no more than 128 characters.
+  //WHEN prompted for the length of the password I choose a length of at least 8 characters and no more than 128 characters.
   while (confirmLength <= 7 || confirmLength >= 129) {
     alert("Please choose between 8 and 128 characters.");
     var confirmLength = prompt(
