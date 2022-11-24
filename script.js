@@ -1,5 +1,5 @@
 // Assignment Code
-var generateBtn = document.querySelector("#generate").addEventListener("click", writePassword);
+var generateBtn = document.querySelector("#generate")
 
 // I put every easily available character I could find on the list provided without using escape characters.
 var number = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0'];
